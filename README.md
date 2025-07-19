@@ -9,7 +9,7 @@
 I'm a passionate DevOps engineer with a strong background in cloud infrastructure, automation, and Python development. I thrive on building robust, scalable solutions and am always eager to learn new technologies and best practices.
 
 - 🛠️ **Main Language:** Python  
-- ☁️ **Favorite Tools:** Terraform, CI/CD, Docker, Kubernetes, GitHub (Version Control)  
+- ☁️ **Favorite Tools:** Terraform, CI/CD, Docker, Kubernetes, GitHub (Version Control), Prometheus and Grafana
 - 📚 **Learning:** Advancing my Python automation skills while exploring DevOps trends like GitOps workflows and observability tools (Prometheus, Grafana)
 - ✍️ **Interests:** Writing Terraform code, engaging with DevOps blogs on social media
 
