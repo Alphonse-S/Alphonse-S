@@ -17,13 +17,15 @@ I'm a passionate DevOps engineer with a strong background in cloud infrastructur
 
 ### 🌟 Pinned Project
 
-**[Static Web Hosting Project](https://github.com/Alphonse-S/your-project-repo)**  
+**[API-Driven_AWS_Lambda_Web_App project] (https://github.com/Alphonse-S/API-Driven_AWS_Lambda_Web_App.git)**
+This project provisions a fully serverless solution on AWS, using Terraform to manage infrastructure as code. It serves a static HTML page that fetches and displays a dynamically stored string, which can be updated without re-deploying the site.
+➡️ **Tools used:** Terraform, S3, Lambda, API Gateway, DynamoDB
+
+**[AWS_Terraform_Static_Web_hosting_Project](https://github.com/Alphonse-S/your-project-repo)**  
 A lightweight infrastructure solution for hosting static websites using **S3, Route 53 + CloudFront, EC2**, and **Terraform**. Includes **CI/CD setup** via GitHub Actions for seamless deployments. Designed with scalability and cost-efficiency in mind.  
 ➡️ **Tools used:** Terraform, Jenkins, AWS S3 + CloudFront, Route 53, EC2
 
-**[API-Driven_AWS_Lambda_Web_App project] (https://github.com/Alphonse-S/API-Driven_AWS_Lambda_Web_App.git)
-This project provisions a fully serverless solution on AWS, using Terraform to manage infrastructure as code. It serves a static HTML page that fetches and displays a dynamically stored string, which can be updated without re-deploying the site.
-➡️ **Tools used:** Terraform, S3, Lambda, API Gateway, DynamoDB
+
 
 ---
 
