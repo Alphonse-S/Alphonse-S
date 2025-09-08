@@ -25,17 +25,6 @@ This project provisions a fully serverless solution on AWS, using Terraform to m
 A lightweight infrastructure solution for hosting static websites using **S3, Route 53 + CloudFront, EC2**, and **Terraform**. Includes **CI/CD setup** via GitHub Actions for seamless deployments. Designed with scalability and cost-efficiency in mind.  
 ➡️ **Tools used:** Terraform, Jenkins, AWS S3 + CloudFront, Route 53, EC2
 
-
-
----
-
-### 🏅 Certification
-
-**AWS Certified Cloud Practitioner**  
-Issued by AWS via [Credly](https://www.credly.com/badges/bf5d5e30-e311-4725-8bdc-ee49aeb51ac7/public_url)
-
-[![AWS Certified Badge](https://images.credly.com/size/220x220/images/6848fc01-6324-49d3-8dfe-0882eaf1653f/AWS-SolArchitect-Associate-2020.png)](https://www.credly.com/badges/bf5d5e30-e311-4725-8bdc-ee49aeb51ac7/public_url)
-
 ---
 
 ### 🧐 Why Me?
