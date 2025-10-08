@@ -28,7 +28,7 @@ A lightweight infrastructure solution for hosting static websites using **S3, Ro
 
 ### 🧐 Why Me?
 
-I bring a strong mix of **AWS expertise** (including ECS, S3, RDS, and CloudFront), a solid grasp of **Kubernetes and Docker**, and a disciplined approach to **infrastructure as code**.  
+I bring a strong mix of **AWS expertise** (including VPC, EC2, IAM ECS, S3, RDS, and CloudFront), a solid grasp of **Kubernetes and Docker**, and a disciplined approach to **infrastructure as code**.  
 My goal is to help businesses **ship faster, scale smarter**, and operate with greater reliability in the cloud.
 
 ---
